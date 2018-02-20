@@ -5,3 +5,7 @@ crear la carpeta repositorio local
 3. iniciar a la consola de git bash 
 4. git init // inicia un repositorio en la carpeta seleccionada 
 5. agregar al menos un archivo al repositorio local 
+6. git nombre primer archivo 
+7. git commit -m "innitial commit " // commit inicial 
+8. crear repositorio en git hub /bitbucket 
+9. git add remote 
