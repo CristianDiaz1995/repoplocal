@@ -1,0 +1,7 @@
+crear la carpeta repositorio local    
+
+1. crear la carpeta del repositorio   
+2. abrir la carpeta 
+3. iniciar a la consola de git bash 
+4. git init // inicia un repositorio en la carpeta seleccionada 
+5. agregar al menos un archivo al repositorio local 
