@@ -9,3 +9,18 @@ crear la carpeta repositorio local
 7. git commit -m "innitial commit " // commit inicial 
 8. crear repositorio en git hub /bitbucket 
 9. git add remote 
+10. git push -u origin master
+
+//comandos git 
+// verificar el estado del repositorio local
+git status
+// agregar cambios 
+git add nombre_archivo_modificado 
+// agregar cambios si se tiene un archivo .gitignore 
+git add. 
+//confirmar cambios
+git commit -m "mensaje descriptivo del commit"
+
+// sincronizacion de cambios local a remoto   
+
+git pull origin nombre_rama
